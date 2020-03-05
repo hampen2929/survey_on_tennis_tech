@@ -44,7 +44,13 @@ http://stanford.edu/class/ee367/Winter2018/fazio_fisher_fujinami_ee367_win18_rep
 
 https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=6&ved=2ahUKEwjU64u8q4ToAhUPGaYKHTnoBd4QFjAFegQIARAB&url=https%3A%2F%2Fwww.aaai.org%2Focs%2Findex.php%2FFLAIRS%2FFLAIRS18%2Fpaper%2Fdownload%2F17690%2F16881&usg=AOvVaw1W6Eowe95wZvgM90uajy-c
 
+- Boomerang snake
+
+https://github.com/hampen2929/tennis
+
 - Trajectory of a Tennis Serve
+
+![image](https://user-images.githubusercontent.com/34574033/76032987-6e57fe80-5f7e-11ea-8ecd-c7929464e48c.png)
 
 https://demonstrations.wolfram.com/TrajectoryOfATennisServe/
 
