@@ -4,7 +4,6 @@ Paper research on tennis
 ## paper
 Predicting Shot Locations in Tennis Using Spatiotemporal Data
 
-https://www.researchgate.net/profile/Stuart_Morgan4/publication/261163495/figure/fig2/AS:296856455270415@1447787502786/Given-the-same-incoming-shot-we-can-predict-the-next-shot-in-continuous-space-for.png
-
+![image](https://user-images.githubusercontent.com/34574033/76027831-aeb27f00-5f74-11ea-9d3b-1bf387aac686.png)
 
 https://ieeexplore.ieee.org/document/6691516
