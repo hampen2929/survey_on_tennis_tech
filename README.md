@@ -46,7 +46,7 @@ https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=6&ved=2ahUKEwjU64u
 
 - Boomerang snake
 
-![image](https://user-images.githubusercontent.com/34574033/76032987-6e57fe80-5f7e-11ea-8ecd-c7929464e48c.png)
+![image](https://user-images.githubusercontent.com/34574033/76033048-9ba4ac80-5f7e-11ea-9adc-156a1235274a.png)
 
 https://github.com/hampen2929/tennis
 
