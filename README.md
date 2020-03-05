@@ -29,6 +29,21 @@ https://demonstrations.wolfram.com/TrajectoryOfATennisServe/
 # player
 
 # court
+- Player Detection and Tracking in Broadcast Tennis Video
+
+![image](https://user-images.githubusercontent.com/34574033/76029282-824c3200-5f77-11ea-98a8-115fbf10c95f.png)
+
+- Visual Active Memory application: understanding tennis
+
+![image](https://user-images.githubusercontent.com/34574033/76029366-a576e180-5f77-11ea-9e97-3240ebfaef46.png)
+
+http://www.ee.surrey.ac.uk/CVSSP/Projects/Multimedia/Tennis/
+
+## detection
+
+- tennis-court-detection
+
+https://github.com/gchlebus/tennis-court-detection
 
 # product
 - Meet the AI Tennis Ref That Can Be Bought for $200
