@@ -26,6 +26,22 @@ https://link.springer.com/chapter/10.1007/978-3-642-97619-3_2
 
 https://demonstrations.wolfram.com/TrajectoryOfATennisServe/
 
+- Visual tracking of a tennis ball
+
+https://www.youtube.com/watch?v=iRlWw8GD0xc
+
+http://epubs.surrey.ac.uk/733265/1/BMVC05.pdf
+
+- Tennis Ball Tracking:3D Trajectory Estimation using Smartphone Videos
+
+http://stanford.edu/class/ee367/Winter2018/fazio_fisher_fujinami_ee367_win18_report.pdf
+
+- Real Time Tennis Match Tracking with Low Cost Equipment
+
+![Screenshot from 2020-03-06 07-07-23](https://user-images.githubusercontent.com/34574033/76030519-2bdff300-5f79-11ea-8d88-009a62b269f4.png)
+
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=6&ved=2ahUKEwjU64u8q4ToAhUPGaYKHTnoBd4QFjAFegQIARAB&url=https%3A%2F%2Fwww.aaai.org%2Focs%2Findex.php%2FFLAIRS%2FFLAIRS18%2Fpaper%2Fdownload%2F17690%2F16881&usg=AOvVaw1W6Eowe95wZvgM90uajy-c
+
 # player
 
 # court
