@@ -4,9 +4,8 @@ Survey on tennis technology
 
 ## detection
 - TrackNet: Tennis Ball Tracking from Broadcast Video by Deep Learning Networks
-
+![image](https://user-images.githubusercontent.com/34574033/76029038-15389c80-5f77-11ea-9b0a-9232b9d29514.png)
 https://nol.cs.nctu.edu.tw:234/open-source/TrackNet/
-
 https://www.youtube.com/watch?v=7IVUyhMkyms
 
 ## trajectory
