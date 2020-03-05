@@ -50,6 +50,10 @@ https://github.com/gchlebus/tennis-court-detection
 
 https://www.youtube.com/watch?v=Yd3XD-JWR5I
 
+- playsight
+
+https://playsight.com/our-sports/tennis/
+
 # all
 - Tennis with Machine Learning and Computer Vision
 
