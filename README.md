@@ -55,6 +55,14 @@ https://github.com/hampen2929/tennis
 
 https://demonstrations.wolfram.com/TrajectoryOfATennisServe/
 
+## Bounce
+
+- Table Tennis Ball Tracking and Bounce Calculation using OpenCV
+
+![image](https://user-images.githubusercontent.com/34574033/84388448-91eead00-ac2f-11ea-88bd-f45e288f8193.png)
+
+http://diposit.ub.edu/dspace/bitstream/2445/119897/3/memoria.pdf
+
 # player
 
 # court
