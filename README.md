@@ -63,6 +63,17 @@ https://demonstrations.wolfram.com/TrajectoryOfATennisServe/
 
 http://diposit.ub.edu/dspace/bitstream/2445/119897/3/memoria.pdf
 
+## Tracking
+
+- Kalman and Bayesian Filters in Python
+
+9.4 Tracking a Ball
+9.5 Tracking a Ball in Air .
+
+![image](https://user-images.githubusercontent.com/34574033/86511604-adfffb80-be35-11ea-88f2-8c3f2dfc0da5.png)
+
+http://robotics.itee.uq.edu.au/~elec3004/2015/tutes/Kalman_and_Bayesian_Filters_in_Python.pdf
+
 # player
 
 # court
